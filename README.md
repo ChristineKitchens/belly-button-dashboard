@@ -1,5 +1,5 @@
 # Belly Button Dashboard
-This interactive dashboard was created as part of a class assignment. The data is part of a mock microbiology study where test subjects had the microbial community composition of their belly buttons analyzed. The Plotly JavaScript library is used to create an interactive data visualization for the web. The resulting web application is deployed through Git Pages and can be found at [https://inregards2pluto.github.io/belly_button_dashboard/](https://inregards2pluto.github.io/belly_button_dashboard/).
+This interactive dashboard was created as part of a mock exercise. The data is part of a mock microbiology study where test subjects had the microbial community composition of their belly buttons analyzed. The Plotly JavaScript library is used to create an interactive data visualization for the web. The resulting web application is deployed through Git Pages and can be found at [https://inregards2pluto.github.io/belly_button_dashboard/](https://inregards2pluto.github.io/belly_button_dashboard/).
 
 ## How to Use
 The webpage will default to showing data from test subject 940.
